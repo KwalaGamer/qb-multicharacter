@@ -5,7 +5,6 @@ Added support for setting default number of characters per player per Rockstar l
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [Multicharacter-Map](https://www.gta5-mods.com/maps/mlo-secret-bossroom-fivem-sp-altv) - Multicharacter Map
 - [qb-spawn](https://github.com/qbcore-framework/qb-spawn) - Spawn selector
 - [qb-apartments](https://github.com/qbcore-framework/qb-apartments) - For giving the player a apartment after creating a character.
 - [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the character creation and saving outfits.

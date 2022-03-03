@@ -9,6 +9,7 @@ Added support for setting default number of characters per player per Rockstar l
 - [qb-apartments](https://github.com/qbcore-framework/qb-apartments) - For giving the player a apartment after creating a character.
 - [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the character creation and saving outfits.
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - For adjusting the weather while player is creating a character.
+- [Doorlock-Script](https://cdn.discordapp.com/attachments/932578698782191669/948942229731438673/Multicharacter.lua) - Add This Script TO qb-doorlock/configs
 
 ## Preview
 [Video-Preview](https://youtu.be/yMtWDcTNPBI)

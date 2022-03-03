@@ -1,6 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
+this_is_a_map 'yes'
+
 description 'QB-Multicharacter'
 version '1.0.0'
 

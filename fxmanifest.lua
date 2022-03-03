@@ -3,8 +3,8 @@ game 'gta5'
 
 this_is_a_map 'yes'
 
-description 'QB-Multicharacter'
-version '1.0.0'
+description 'QB-Multicharacter | CSS Rework | v1.1'
+version 'v1.1'
 
 shared_script 'config.lua'
 client_script 'client/main.lua'
